@@ -31,7 +31,7 @@ It is worth noting that, while we are given the actions data from past users, we
 *   main memory size - < (6000 - showing high correlation with purchase)
 *   height of device - (500 - 1000 correlating well with purchase)
 
-Therefore, if there is no action available for the user, a special price could be advertized to users whose activity or device falls in the above category.
+Therefore, if there is no action available for the user, a special price could be advertized to users whose activity or device falls in the above category. Further improvements can be made via hyperparameter tuning - including number of top categories per feature, up/down sampling strategy as well as parameters for the trained model
 
 ![image](https://user-images.githubusercontent.com/6319868/148814252-e6584b69-b7ef-4dd8-bcb5-74c47ce28412.png)
 
