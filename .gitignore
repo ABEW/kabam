@@ -131,6 +131,7 @@ dmypy.json
 # data folder for training, validation and test
 kabam_ds_interview/
 *.zip
+intermediate_data/
 
 # folder created by MacOS
 .DS_STORE/
